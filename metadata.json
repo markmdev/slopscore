@@ -1,0 +1,5 @@
+{
+  "name": "SlopScore: README Reality Check",
+  "description": "SlopScore verifies whether software projects actually implement the features they claim in their documentation. By analyzing GitHub repositories, it identifies the gap between what developers promise and what they deliver.",
+  "requestFramePermissions": []
+}
